@@ -1,0 +1,54 @@
+@use '/src/app/mixins';
+
+.solucao {
+  @include mixins.paddingLateral(0);
+
+  padding-top: 64px;
+  margin-bottom: 23px;
+
+
+  img {
+    display: block;
+    width: 100%;
+    margin-bottom: 18px;
+    border-radius: 10px;
+  }
+
+  h2  {
+    @include mixins.subTitulo()
+  }
+
+  p {
+    margin-top: 16px;
+    font-size: 20px;
+    color: #e1d6d6d4;
+    margin-bottom: 28px;
+  }
+
+  button {
+    background-color: #ed145b;
+    border: 1px solid #ed145b;
+    padding: 14px 48px;
+    border-radius: 10px;
+    transition: 0.2s;
+    margin: 4px 0;
+    a {
+      color: #fff;
+      text-transform: uppercase;
+      font-size: 18px;
+  
+      
+    }
+    &:hover {
+      transform: scale(1.15);
+    }
+
+    &:active {
+      transition: 0.1s;
+      transform: scale(0.9);
+    }
+  }
+  
+
+
+}

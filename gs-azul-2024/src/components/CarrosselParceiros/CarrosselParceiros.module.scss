@@ -1,0 +1,36 @@
+@use '/src/app/mixins';
+
+.container {
+  @include mixins.paddingLateral(0);
+  padding-top: 50px;
+  h2 {
+    @include mixins.subTitulo()
+  }
+}
+.carrossel {
+  padding-top: 50px;
+  display: flex;
+  overflow-x: scroll;
+  gap: 80px;
+
+  img {
+    color: #fff;
+    background-color: #fff;
+  }
+  
+  &::-webkit-scrollbar {
+    // width: 8px;
+    height: 10px;              
+  }
+  
+  &::-webkit-scrollbar-track {
+    background: #ed145c6a;   
+    border-radius: 20px;
+  }
+  
+  &::-webkit-scrollbar-thumb {
+    background-color: #ed145b;    
+    border-radius: 20px;       
+    border: 3px solid #ed145b; 
+  }
+}

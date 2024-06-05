@@ -1,0 +1,21 @@
+@mixin paddingLateral($paddingVertical) {
+  padding: $paddingVertical 4vw;
+}
+
+@mixin subTitulo {
+  font-size: 23px;
+  position: relative;
+  display: inline;
+  padding-bottom: 4px;
+  padding-right: 21px;
+  text-transform: uppercase;
+  &::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 3px;
+    width: 100%;
+    background-color: #ed145b;
+  }
+}
