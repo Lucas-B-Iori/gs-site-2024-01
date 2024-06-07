@@ -79,3 +79,13 @@
     }
   }
 }
+
+@media (min-width: 1280px) {
+  .menu {
+    // text-align: center;
+    padding-top: 50px;
+    a {
+      font-size: 38px;
+    }
+  }
+}

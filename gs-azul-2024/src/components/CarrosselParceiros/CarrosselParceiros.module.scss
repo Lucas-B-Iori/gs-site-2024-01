@@ -6,6 +6,7 @@
   h2 {
     @include mixins.subTitulo()
   }
+
 }
 .carrossel {
   padding-top: 50px;
@@ -32,5 +33,20 @@
     background-color: #ed145b;    
     border-radius: 20px;       
     border: 3px solid #ed145b; 
+  }
+}
+
+@media (min-width: 1280px) {
+  .carrossel {
+    overflow-x: hidden;
+    display: grid;
+    grid-template: 1fr 1fr / repeat(4, 1fr);
+
+    img {
+      width: 100%;
+      height: 100px;
+      background-color: #fff;
+    }
+    // gap: 40px;
   }
 }

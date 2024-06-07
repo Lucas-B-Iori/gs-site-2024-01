@@ -2,13 +2,19 @@
   {
     "titulo": "Pesca Ilegal",
     "imagem": "/pesca.jpeg",
-    "texto": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Distinctio et architecto, quod recusandae sapiente delectus nam quae molestiae. Nemo consequuntur quaerat officiis repudiandae ratione sunt animi commodi ea dolorem adipisci.",
+    "texto": "A pesca ilegal é a captura de peixes e outros recursos marinhos sem permissão ou em desacordo com as regulamentações locais e internacionais. Esta prática prejudica os ecossistemas, reduz a biodiversidade, ameaça a segurança alimentar e prejudica as economias que dependem da pesca sustentável. Combater a pesca ilegal é essencial para a preservação dos oceanos e a manutenção das comunidades pesqueiras.",
     "id": 0
   },
   {
     "titulo": "Poluição",
     "imagem": "/poluicao.jpg",
-    "texto": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Distinctio et architecto, quod recusandae sapiente delectus nam quae molestiae. Nemo consequuntur quaerat officiis repudiandae ratione sunt animi commodi ea dolorem adipisci.",
+    "texto": "A poluição marinha é a introdução de substâncias nocivas, como plásticos, produtos químicos e esgoto, nos oceanos, prejudicando a saúde dos ecossistemas aquáticos. Esta contaminação afeta a vida marinha, polui a água e compromete a segurança alimentar e a saúde humana. Reduzir a poluição marinha é crucial para preservar a biodiversidade e garantir a sustentabilidade dos recursos oceânicos.",
     "id": 1
+  },
+  {
+    "titulo": "Humanidade",
+    "imagem": "/humanidade1.jpg",
+    "texto": "O vasto oceano, repleto de vida e mistérios, enfrenta problemas crescentes como a pesca ilegal e a poluição. Redes clandestinas e lixo estão esvaziando os mares e sufocando a vida marinha. No entanto, a humanidade está reagindo. Governos e indivíduos, por meio de pequenas e grandes ações, podem transformar essa situação. A criação do Oceans20, um grupo coordenado pela Cátedra Unesco para a Sustentabilidade do Oceano da USP e apoiado por várias organizações, exemplifica esse esforço. Reduzir o uso de plásticos, optar por produtos sustentáveis e apoiar iniciativas de conservação são formas de ajudar. Com escolhas conscientes e participação ativa, podemos reescrever o destino dos oceanos e restaurar seu esplendor. Cada gesto conta nessa jornada de conscientização e mudança, formando juntos um oceano de esperança.",
+    "id": 2
   }
 ]

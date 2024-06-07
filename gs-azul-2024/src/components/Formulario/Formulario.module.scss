@@ -52,3 +52,13 @@
   outline: none;
   letter-spacing: 0.18rem;
 }
+
+@media (min-width: 1280px) {
+
+  .formulario {
+    button {
+      width: 20%;
+      font-size: 23px;
+    }
+  }
+}

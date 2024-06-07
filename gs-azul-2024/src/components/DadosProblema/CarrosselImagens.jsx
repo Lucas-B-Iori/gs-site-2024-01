@@ -17,7 +17,7 @@ export default function CarrosselImagens({ imagens }) {
         return () => {
           clearTimeout(timer)
         }
-      }, 8000)
+      }, 5000)
     }
     
     toggleImage()

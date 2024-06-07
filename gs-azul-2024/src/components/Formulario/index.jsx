@@ -16,7 +16,12 @@ export default function Formulario() {
       [dado]: valor
     }))
   }
-  console.log(formularioData)
+
+  function enviaFormulario(e) {
+    e.preventDefault()
+    
+  }
+  
   return (
     <div className={styles.formulario}>
       <h2>Formulario para contato</h2>
@@ -24,7 +29,7 @@ export default function Formulario() {
         <Input valor={formularioData.email} setValor={atualizaDados} dado='email' label="Digite seu e-mail" />
         <Input valor={formularioData.nome} setValor={atualizaDados} dado='nome' label="Digite seu nome" />
         <Input valor={formularioData.mensagem} setValor={atualizaDados} dado='mensagem' label="Digite sua mensagem" />
-        <button>
+        <button onClick={enviaFormulario}>
           Enviar
         </button>
       </form>

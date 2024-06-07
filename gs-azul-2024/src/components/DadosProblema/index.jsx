@@ -5,11 +5,13 @@ export default function DadosProblema({ titulo, explicacao, consequencias, image
   return (
     <div className={styles.problema}>
       <h2>{titulo}</h2>
-      <CarrosselImagens imagens={imagens} />
-      <h3>O que é?</h3>
-      <p>{explicacao}</p>
-      <h3>Consequencias</h3>
-      <p>{consequencias}</p>
+      <div className={styles.container}>
+        <CarrosselImagens imagens={imagens} />
+        <div>
+          <h3>O que é?</h3>
+          <p>{explicacao}</p>
+        </div>
+      </div>
     </div>
   )
 }

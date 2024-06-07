@@ -1,8 +1,7 @@
 [
   {
     "titulo": "Pesca Ilegal",
-    "explicacao": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Distinctio et architecto, quod recusandae sapiente delectus nam quae molestiae. Nemo consequuntur quaerat officiis repudiandae ratione sunt animi commodi ea dolorem adipisci.",
-    "consequencias": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Distinctio et architecto, quod recusandae sapiente delectus nam quae molestiae. Nemo consequuntur quaerat officiis repudiandae ratione sunt animi commodi ea dolorem adipisci.",
+    "explicacao": "Imagine um futuro onde os peixes frescos e saborosos que adoramos se tornam cada vez mais raros e caros. Essa é a triste realidade que pode se concretizar caso a pesca ilegal, não declarada e não regulamentada (INN) cresça exponencialmente. Essa prática terrível, que se esconde por trás de muitos dos pratos de peixe que são consumidos ao redor do mundo, representa uma grave ameaça à saúde dos oceanos, à segurança alimentar  e à economia das comunidades costeiras e ao futuro da pesca como um todo. A pesca INN opera como um banquete para a destruição dos oceanos. Navios fantasmas, sem qualquer registro ou autorização, cruzam os mares capturando peixes de forma desenfreada, sem levar em conta os limites de pesca ou a saúde dos ecossistemas marinhos, tal como a destruição de recifes de corais, fontes importantíssimas para manutenção da vida marinha. Redes ilegais e métodos destrutivos dizimam populações inteiras de peixes, enquanto espécies ameaçadas são dizimadas sem piedade. Além da  pesca em áreas protegidas e a falsificação de dados sobre as capturas.",
     "imagens": [
       "/pesca.jpeg",
       "/pesca1.jpeg",
@@ -11,8 +10,7 @@
   },
   {
     "titulo": "Poluição Marinha",
-    "explicacao": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Distinctio et architecto, quod recusandae sapiente delectus nam quae molestiae. Nemo consequuntur quaerat officiis repudiandae ratione sunt animi commodi ea dolorem adipisci.",
-    "consequencias": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Distinctio et architecto, quod recusandae sapiente delectus nam quae molestiae. Nemo consequuntur quaerat officiis repudiandae ratione sunt animi commodi ea dolorem adipisci.",
+    "explicacao": "No vasto azul dos oceanos, onde a vida marinha deveria florescer em tranquilidade, há uma história sombria tecendo-se entre as ondas. Toneladas de plástico, resíduos tóxicos e poluentes invisíveis são lançados nos mares a cada ano, transformando o berço da vida em um campo de batalha. Cenas de tartarugas marinhas confundindo sacos plásticos com água-vivas, sua refeição favorita, estão cada vez mais comuns. Essa ingestão letal é apenas uma das muitas tragédias silenciosas que ocorrem diariamente. Não são apenas os plásticos visíveis que causam danos; microplásticos, pequenas partículas resultantes da degradação de materiais maiores, invadem a cadeia alimentar, afetando desde os menores plânctons até os maiores predadores, incluindo nós, humanos. A poluição dos oceanos não prejudica apenas a vida marinha. Economias costeiras que dependem do turismo e da pesca estão em risco. Praias outrora paradisíacas estão cobertas de detritos, afastando visitantes e afetando o sustento de milhares de famílias. Os pescadores enfrentam a diminuição dos estoques de peixes, prejudicados por habitats destruídos e águas contaminadas. A saúde humana também está em jogo, substâncias químicas tóxicas presentes nos oceanos entram nos pratos de comida através de frutos do mar que são consumidos, trazendo consigo riscos de doenças graves. Ademais a mudança climática, intimamente ligada à poluição, agrava ainda mais a situação, com o aumento da temperatura das águas e a acidificação dos oceanos, matando corais e desestabilizando ecossistemas inteiros.",
     "imagens": [
       "/poluicao.jpg",
       "/poluicao1.jpeg",

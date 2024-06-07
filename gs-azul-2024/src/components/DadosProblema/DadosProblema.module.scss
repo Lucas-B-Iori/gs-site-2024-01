@@ -13,7 +13,7 @@
       width: 100%;
       margin: 32px 0;
       border-radius: 10px;
-      height: 350px;
+      height: 400px;
     }
   }
 
@@ -29,7 +29,43 @@
   p {
     margin: 18px 0;
     text-align: justify;
+    letter-spacing: 0.08em;
   }
 
 
+}
+
+@media (min-width: 1024px) {
+  .problema {
+    h2 {
+      font-size: 32px;
+    }
+
+    h3 {
+      font-size: 25px;
+    }
+
+    p {
+      font-size: 21px;
+    }
+  }
+}
+
+@media (min-width: 1280px) {
+  .problema {
+    .container {
+      display: flex;
+      margin-top: 90px;
+      gap: 120px;
+      .carrossel {
+        order: 2;
+        margin-top: 30px;
+      }
+
+      div {
+        order: 1;
+        width: 100%;
+      }
+    }
+  }
 }
