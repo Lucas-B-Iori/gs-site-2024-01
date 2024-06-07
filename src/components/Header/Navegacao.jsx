@@ -23,6 +23,9 @@ function Menu({ toggleMenu }) {
       <li className={styles.link}>
         <Link href='/contato' onClick={toggleMenu} >Contato</Link>
       </li>
+      <li className={styles.link}>
+        <Link href='/chat' onClick={toggleMenu} >Chat</Link>
+      </li>
     </ul>
   )
 }
